@@ -1,0 +1,5 @@
+
+const andrii= {
+    name:'',
+    bitrthPlace
+}

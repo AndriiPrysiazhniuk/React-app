@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 367f1054e0f7b1e3ff290e7846615f278996d29c
+>>>>>>> 9ae03a4c71e48d3a25ec03b100bdff18d0d2419d
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -42,3 +49,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+=======
+# React-app
+>>>>>>> c1ca676bf0b9d62bfae925803b8b5fdbfb0ae469
+>>>>>>> 367f1054e0f7b1e3ff290e7846615f278996d29c
+>>>>>>> 9ae03a4c71e48d3a25ec03b100bdff18d0d2419d
